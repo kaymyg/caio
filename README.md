@@ -4,6 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Tests](https://img.shields.io/badge/tests-10%20passing-brightgreen)](tests/)
 [![Coverage](https://img.shields.io/badge/coverage-100%25%20core.py-brightgreen)](tests/)
+[![CodeQL](https://github.com/kaymyg/caio/actions/workflows/codeql.yml/badge.svg)](https://github.com/kaymyg/caio/actions/workflows/codeql.yml)
 
 A small, dense reference prototype for one question: **when an autonomous
 agent acts on a network, how do you cryptographically prove who it is,
