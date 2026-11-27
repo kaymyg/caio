@@ -115,6 +115,8 @@ this account's projects hold themselves to:
 
 ## Contributing
 
+Looking for something to work on? See [HELP_WANTED.md](HELP_WANTED.md).
+
 Bug reports, new divergence scenarios, and PRs are welcome — see
 [`CONTRIBUTING.md`](CONTRIBUTING.md) for setup and what CI checks.
 
